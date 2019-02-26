@@ -3,7 +3,7 @@ This is for addtional image preprocessing
 
 Follow the command to clone the python code
 ```
-git clone https:;//github.com/CzJakethedog/preprocessing.git
+git clone https://github.com/CzJakethedog/preprocessing.git
 
 ```
 
